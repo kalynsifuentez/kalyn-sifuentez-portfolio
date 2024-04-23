@@ -1,5 +1,8 @@
+import Projects from "./Projects";
+
 export default function About() {
   return (
+    <>
     <div>
       <h1>Kalyn Sifuentez</h1>
       <h2>Christian, Wife and Mom...and so much more!</h2>
@@ -19,5 +22,7 @@ export default function About() {
         solve which I enjoy so much!
       </p>
     </div>
+    <Projects />
+    </>
   );
 }

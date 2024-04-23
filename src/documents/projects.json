@@ -1,0 +1,39 @@
+[
+    {
+      "name": "REEL REPORT",
+      "repo": "https://github.com/BryceGitHuba/Movie_Picker",
+      "deployed": "https://reel-report-8887d227dacc.herokuapp.com/",
+      "image": "https://github.com/kalynsifuentez/kalyn-sifuentez-portfolio/blob/main/src/images/reel-report-screenshot.png?raw=true"
+    },
+    {
+      "name": "WORKDAY SCHEDULER",
+      "repo": "https://github.com/kalynsifuentez/work-day-scheduler.git",
+      "deployed": "https://kalynsifuentez.github.io/work-day-scheduler/",
+      "image": "https://github.com/kalynsifuentez/kalyn-sifuentez-portfolio/blob/main/src/images/kalynsifuentez.github.io_work-day-scheduler_.png?raw=true"
+
+    },
+    {
+      "name": "STAR WARS QUIZ",
+      "repo": "https://github.com/ShaneLeeJohnson/Star-Wars-Trivia",
+      "deployed": "https://shaneleejohnson.github.io/Star-Wars-Trivia/",
+      "image":"https://github.com/kalynsifuentez/kalyn-sifuentez-portfolio/blob/main/src/images/Star-Wars-Quiz-Screenshot-1.PNG?raw=true"
+    },
+    {
+      "name": "CODING QUIZ",
+      "repo": "https://github.com/kalynsifuentez/code-quiz.git",
+      "deployed": "https://kalynsifuentez.github.io/code-quiz/",
+      "image":"https://github.com/kalynsifuentez/kalyn-sifuentez-portfolio/blob/main/src/images/start-quiz.png?raw=true"
+    },
+    {
+      "name": "WEATHER DASHBOARD",
+      "repo": "https://github.com/kalynsifuentez/weather-dashboard.git",
+      "deployed": "https://kalynsifuentez.github.io/weather-dashboard/",
+      "image":"https://github.com/kalynsifuentez/kalyn-sifuentez-portfolio/blob/main/src/images/weather-dashboard.png?raw=true"
+    },
+    {
+      "name": "NOTE TAKER",
+      "repo": "https://github.com/kalynsifuentez/note-taker.git",
+      "deployed": "https://frozen-ridge-05844-7fe72e5adabf.herokuapp.com/",
+      "image":"https://github.com/kalynsifuentez/kalyn-sifuentez-portfolio/blob/main/src/images/Screenshot%20-%20Note%20Taker%20Landing%20Page.png?raw=true"
+    }
+  ]
