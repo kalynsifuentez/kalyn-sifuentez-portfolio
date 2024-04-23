@@ -43,7 +43,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 
 ## Links
-Live: https://kalyn-sifuentez-portfolio.netlify.app/
+Live: https://kalyn-sifuentez-portfolio.netlify.app
 Github: https://github.com/kalynsifuentez/kalyn-sifuentez-portfolio.git
 
 ## Sources
